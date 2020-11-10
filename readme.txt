@@ -6,3 +6,5 @@ Git remote add origin
 Greating a new branch is quick AND simple.
 
 Greating a new line.
+
+master
